@@ -60,7 +60,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-8WR82RYJQL
+    property: G-9CJX99DF72
 
 # Plugins
 plugins:
