@@ -24,3 +24,4 @@ This competition starts on Dec. 19th, 2022 and closes on March 20th, 2023. The d
 ## Participation
 
 Everyone is welcome to participate in this competition. To ensure fairness, we require teams to abide the [participation rules](rules).
+
