@@ -51,6 +51,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Schedule: schedule.md
+  - Task: task.md
+  - Rules: rules.md
+  - Organizers: team.md
 
 # Copyright
 copyright: Copyright &copy; 2022 <strong>IBM</strong> Research Europe - DeepSearch Team
