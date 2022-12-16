@@ -13,14 +13,14 @@ To raise the bar over previous competitions, we propose our newly published, hum
 
 ## Task and resources
 
-We invite you to develop a model that can accurately segment the layout components in document pages as bounding boxes on a competition data-set we provide. The layout prediction accuracy you achieve with your solution will be evaluated on this dataset with our human-annotated layout ground-truth. Code submissions are not required. Find the details [here](/task).
+We invite you to develop a model that can accurately segment the layout components in document pages as bounding boxes on a competition data-set we provide. The layout prediction accuracy you achieve with your solution will be evaluated on this dataset with our human-annotated layout ground-truth. Code submissions are not required. Find the details [here](task).
 
 We highly recommend you to use our recently published DocLayNet dataset for training and internal validation. DocLayNet is highly diverse in layout coverage, and includes Financial reports, Patents, Manuals, Laws, Tenders and Technical Papers. It is human-annotated with 11 distinct layout class labels. Added value for model development is provided through the original PDF pages and a paired JSON representation of the text cells.
 
 ## Schedule
 
-This competition starts on Dec. 19th, 2022 and closes on March 20th, 2023. The detailed schedule is [here](/schedule). 
+This competition starts on Dec. 19th, 2022 and closes on March 20th, 2023. The detailed schedule is [here](schedule). 
 
 ## Participation
 
-Everyone is welcome to participate in this competition. To ensure fairness, we require teams to abide the [participation rules](/rules).
+Everyone is welcome to participate in this competition. To ensure fairness, we require teams to abide the [participation rules](rules).

@@ -17,7 +17,7 @@ Further, you may consider any other publicly available document layout dataset f
 
 ### Competition data-set
 
-To assess the layout segmentation performance of your model, we will create a competition data-set of 500+ additional pages in the same manner as [DocLayNet](https://github.com/DS4SD/DocLayNet). To raise  the bar, this competition data-set includes a balanced mix of samples which fall into the layout distribution of DocLayNet, and samples which expose additional unseen layouts. Each sample will be categorized into one of the DocLayNet layout categories, or into `other`.
+To assess the layout segmentation performance of your model, we will create a competition data-set of 500+ additional pages in the same manner as [DocLayNet](https://github.com/DS4SD/DocLayNet). To raise  the bar, this competition data-set includes a balanced mix of samples which fall into the layout distribution of DocLayNet, and samples which expose additional unseen layouts. Each sample will be categorized into one of the [DocLayNet layout categories](https://github.com/DS4SD/DocLayNet#example-coco-image-record), or into `other`.
 
 We will publish this competiton data-set, _without_ any ground-truth annotations, on Jan. 16th, 2023. Your task is to produce layout predictions with your model in COCO format, and submit these to our EvalAI project (registrations TBA). 
 
