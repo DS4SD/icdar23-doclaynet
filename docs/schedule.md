@@ -6,6 +6,6 @@ We will publish the competition data-set and open the submissions system on Jan.
 | Date | Milestone |
 |------|-----------|
 |19/Dec/2022 | Go-live of competition website with task description, eval metrics and participation rules |
-|16/Jan/2022 | Competition data-set is released (without ground truth), team registration opens and submissions can be made  |
+|16/Jan/2022 | Competition data-set is released (without ground truth), team registration opens on EvalAI and submissions can be made  |
 |20/Mar/2023 | Competition ends, winner is determined|
 |21-26/Aug/2023 | Results are presented at ICDAR 2023 conference|
