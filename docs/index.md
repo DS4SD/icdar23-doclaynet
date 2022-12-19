@@ -23,8 +23,8 @@ We invite you to develop a model that can accurately segment the layout componen
 
 We highly recommend you to use our recently published DocLayNet dataset for training and internal validation. DocLayNet is highly diverse in layout coverage, and includes Financial reports, Patents, Manuals, Laws, Tenders and Technical Papers. It is human-annotated with 11 distinct layout class labels. Added value for model development is provided through the original PDF pages and a paired JSON representation of the text cells.
 
-
 ## Participation
 
 Everyone is welcome to participate in this competition. To ensure fairness, we require teams to abide by the [participation rules](rules).
+
 
