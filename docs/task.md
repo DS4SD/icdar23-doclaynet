@@ -1,16 +1,16 @@
 # Task
 
-![Complex layouts](figures/explain_pdf_cluster.png){ align=left width="400" }
+![Complex layouts](figures/explain_pdf_cluster.png)
 
 You are invited to advance the research in accurately segmenting the layout on a broad range of document styles and domains. To achieve this, we challenge you to develop a model that can correctly identify and segment the layout components in document pages as bounding boxes on a competition data-set we provide.
 
 ## Training resources
 
-In our recently published [DocLayNet](https://github.com/DS4SD/DocLayNet) ground-truth dataset, which contains 80k+ human-annotated document pages exposing diverse layouts, we define 11 classes for layout components (paragraphs, headings, tables, figures, lists, mathematical formulas and several more). We encourage you to use this dataset for training and internal evaluation of your solution.
+In our recently published [DocLayNet](https://github.com/DS4SD/DocLayNet) dataset, which contains 80k+ human-annotated document pages exposing diverse layouts, we define 11 classes for layout components (paragraphs, headings, tables, figures, lists, mathematical formulas and several more). We encourage you to use this dataset for training and internal evaluation of your solution.
 Further, you may consider any other publicly available document layout dataset for training (e.g. [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet), [DocBank](https://github.com/doc-analysis/DocBank)).
 
 !!! tip 
-        DocLayNet provides not only bitmap page samples and COCO bounding-box annotations, but also the original PDF files and paired JSON with the digital text-cells. This may support you in exploring the most recent advancements in the ML landscape, such as multi-modal deep learning architectures.
+        DocLayNet provides not only bitmap page samples and COCO bounding-box annotations, but also the original PDF files and paired JSON with the digital text-cells. This may support you in exploring solving the problem using language and vision with multimodal approaches.
         
  
 ## Evaluation
