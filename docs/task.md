@@ -26,7 +26,7 @@ To assess the layout segmentation performance of your model, we will create a co
 
 ### Metric
 
-Your submissions on EvalAI will be evaluated using the Mean Average Precision (mAP) @ Intersection-over-Union (IoU) [0.50:0.95] metric, as used in the [COCO](https://cocodataset.org/) object detection competition.  In detail, we will calculate the average precision for a sequence of IoU thresholds ranging from 0.50 to 0.95 with a step size of 0.05. This metric is computed for every document cateogry in the competition-dataset. Then the mean of the average precisions on all categories is computed as the final score.
+Your submissions on EvalAI will be evaluated using the Mean Average Precision (mAP) @ Intersection-over-Union (IoU) [0.50:0.95] metric, as used in the [COCO](https://cocodataset.org/) object detection competition.  In detail, we will calculate the average precision for a sequence of IoU thresholds ranging from 0.50 to 0.95 with a step size of 0.05. This metric is computed for every document category in the competition-dataset. Then the mean of the average precisions on all categories is computed as the final score.
 
 ### Submission 
 
