@@ -1,6 +1,6 @@
 # Task
 
-![Complex layouts](figures/explain_pdf_cluster.png)
+![Complex layouts](figures/explain_pdf_cluster.png){ align=left width="400" }
 
 You are invited to advance the research in accurately segmenting the layout on a broad range of document styles and domains. To achieve this, we challenge you to develop a model that can correctly identify and segment the layout components in document pages as bounding boxes on a competition data-set we provide.
 

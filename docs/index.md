@@ -7,7 +7,7 @@
 
 In this competition, we challenge you to advance the research in accurately segmenting the layout in a very broad range of document styles and domains. 
 
-![Complex layouts](figures/complex_pages_with_source_v2.png)
+![Complex layouts](figures/complex_pages_with_source_v2.png){ align=left width="300" }
 
 Converting documents into a machine-processable format is an on-going challenge due to their huge variability in formats and complex structure. Recovering the layout structure and content from documents has remained a key problem since decades, and is as relevant as ever in 2023. To this date, a highly generalising model for structure and layout understanding has yet to be achieved. 
 
