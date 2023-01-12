@@ -1,5 +1,8 @@
 # ICDAR 2023 Competition on Robust Layout Segmentation in Corporate Documents
 
+!!! info
+		To participate and make submissions, please register on our [EvalAI challenge page](https://eval.ai/web/challenges/challenge-page/1923/). 
+
 ## Introduction
 
 In this competition, we challenge you to advance the research in accurately segmenting the layout in a very broad range of document styles and domains. 
@@ -16,6 +19,7 @@ To raise the bar over previous competitions, we propose our newly published, hum
 |   |    |
 | :---------- | :----------------------------------- |
 | Dec. 19th, 2022      | This competition is now **live** and will run until March 20th, 2023. Find the detailed schedule [here](schedule)|
+| Jan. 16th, 2023      | The [competition-dataset](task#competition-data-set) is now released and submissions are opened on EvalAI. Register [here](https://eval.ai/web/challenges/challenge-page/1923/).|
 
 ## Task and resources
 
