@@ -4,7 +4,7 @@ This competition is hosted by the [_AI 4 Knowledge_ group](https://ds4sd.github.
 
 For any inquiries, please email us at [deepsearch-core@zurich.ibm.com](mailto:deepsearch-core@zurich.ibm.com)
 
-## Authors
+## Organizers
 
 - [Christoph Auer](https://research.ibm.com/people/christoph-auer)
 - [Ahmed Nassar](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-AHN)
