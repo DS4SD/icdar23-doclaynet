@@ -10,7 +10,7 @@ In our recently published [DocLayNet](https://github.com/DS4SD/DocLayNet) datase
 Further, you may consider any other publicly available document layout dataset for training (e.g. [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet), [DocBank](https://github.com/doc-analysis/DocBank)).
 
 !!! tip 
-        DocLayNet provides not only bitmap page samples and COCO bounding-box annotations, but also the original PDF files and paired JSON with the digital text-cells. This may support you in exploring solving the problem using language and vision with multimodal approaches.
+        DocLayNet provides not only bitmap page samples and COCO bounding-box annotations, but also the original PDF files and paired JSON with the digital text-cells. This may support you in solving the proposed challenge using both language and vision with multimodal ML approaches.
         
  
 ## Evaluation
