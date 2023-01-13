@@ -52,7 +52,7 @@ theme:
 nav:
   - Home: index.md
   - Schedule: schedule.md
-  - Task: task.md
+  - Task and Resources: task.md
   - Rules: rules.md
   - Organizers: team.md
 

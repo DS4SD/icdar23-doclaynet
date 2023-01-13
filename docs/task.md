@@ -10,14 +10,14 @@ In our recently published [DocLayNet](https://github.com/DS4SD/DocLayNet) datase
 Further, you may consider any other publicly available document layout dataset for training (e.g. [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet), [DocBank](https://github.com/doc-analysis/DocBank)).
 
 !!! tip 
-        DocLayNet provides not only bitmap page samples and COCO bounding-box annotations, but also the original PDF files and paired JSON with the digital text-cells. This may support you in solving the proposed challenge using both language and vision with multimodal ML approaches.
+        DocLayNet provides not only bitmap page samples and COCO bounding-box annotations, but also JSON files with the digital text-cells from the originating PDFs. This may support you in solving the proposed challenge using both language and vision with multimodal ML approaches.
         
  
 ## Evaluation
 
 ### Competition data-set
 
-To assess the layout segmentation performance of your model, we provide a *competition data-set* of 498 new pages in the same manner as [DocLayNet](https://github.com/DS4SD/DocLayNet). This competition data-set includes a balanced mix of corporate document samples as shown below. The new `others` category provides samples which expose additional layouts that fall out of the DocLayNet layout distribution.
+To assess the layout segmentation performance of your model, we provide a *competition data-set* of 498 new pages in the same manner as [DocLayNet](https://github.com/DS4SD/DocLayNet). This competition data-set includes a balanced mix of corporate document samples as shown below. Samples in the new `others` category expose additional layouts that fall outside of the DocLayNet layout distribution.
 
 | **Document category** 	| **Sample count** 	|
 |-----------------------	|------------------	|
@@ -55,8 +55,8 @@ The competition data-set provides PNG images (1025 x 1025 px) of the pages and p
 
 | **Asset**           	| **Download link** 	|
 |---------------------	|-------------------	|
-| Competition dataset (498 pages)	| [TBA]()              	|
-| Development dataset (20 pages)	| [TBA]()              	|
+| Competition dataset (498 pages)	| [Download](https://ds4sd-icdar23-doclaynet-competition.s3.eu-de.cloud-object-storage.appdomain.cloud/competition-dataset-public.zip) (205 MB)             	|
+| Development dataset (20 pages)	| [Download](https://ds4sd-icdar23-doclaynet-competition.s3.eu-de.cloud-object-storage.appdomain.cloud/dev-dataset-public.zip) (8 MB)             	|
 
 
 ### Evaluation Metric
