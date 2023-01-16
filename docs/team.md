@@ -8,7 +8,7 @@ For any inquiries, please email us at [deepsearch-core@zurich.ibm.com](mailto:de
 
 - [Christoph Auer](https://research.ibm.com/people/christoph-auer)
 - [Ahmed Nassar](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-AHN)
-- [Maksym Lysak](https://resedit.bx.cloud9.ibm.com/researcher/view.php?person=zurich-MLY)
+- [Maksym Lysak](https://research.ibm.com/people/maxim-lysak)
 - [Michele Dolfi](https://research.ibm.com/people/michele-dolfi)
 - [Nikolaos Livathinos](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-nli)
 - [Peter Staar](https://research.ibm.com/people/peter-staar)
