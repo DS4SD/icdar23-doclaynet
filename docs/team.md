@@ -7,7 +7,7 @@ For any inquiries, please email us at [deepsearch-core@zurich.ibm.com](mailto:de
 ## Organizers
 
 - [Christoph Auer](https://research.ibm.com/people/christoph-auer)
-- [Ahmed Nassar](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-AHN)
+- [Ahmed Nassar](https://research.ibm.com/people/ahmed-nassar)
 - [Maksym Lysak](https://research.ibm.com/people/maxim-lysak)
 - [Michele Dolfi](https://research.ibm.com/people/michele-dolfi)
 - [Nikolaos Livathinos](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-nli)
