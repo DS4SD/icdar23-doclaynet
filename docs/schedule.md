@@ -7,5 +7,5 @@ The [competition data-set](../task#competition-data-set) is published and submis
 |------|-----------|
 |19/Dec/2022 | Go-live of competition website with task description, eval metrics and participation rules |
 |13/Jan/2022 | Competition data-set is released (without ground truth), team registration opens on EvalAI and submissions can be made  |
-|~20/Mar/2023~ 26/Mar/2023 | **Deadline Extended!** Competition ends, winner is determined|
+|~20/Mar/2023~ 3/Apr/2023 | **Deadline Extended!** Competition ends, winner is determined|
 |21-26/Aug/2023 | Results are presented at ICDAR 2023 conference|
