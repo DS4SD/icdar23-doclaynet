@@ -1,7 +1,7 @@
 # ICDAR 2023 Competition on Robust Layout Segmentation in Corporate Documents
 
 !!! info
-		We extended the deadline of this competition to March 26th, 2023 12:00 AM (midnight). Please review the finalization actions on our [EvalAI challenge page](https://eval.ai/web/challenges/challenge-page/1923/).
+		We extended the deadline of this competition to April 3rd, 2023 23:59 UTC+1:00. Please review the finalization actions on our [EvalAI challenge page](https://eval.ai/web/challenges/challenge-page/1923/).
 
 
 !!! info
@@ -22,6 +22,7 @@ To raise the bar over previous competitions, we propose our newly published, hum
 
 |   |    |
 | :---------- | :----------------------------------- |
+| **Mar. 27th, 2023**      | The competition deadline is extended until April 3rd, 2023 23:59 UTC+1:00 |
 | **Mar. 20th, 2023**      | The competition deadline is extended until March 26th, 2023 12:00 AM (midnight) |
 | **Jan. 13th, 2023**      | The [competition-dataset](task#competition-data-set) is now released and submissions are opened on EvalAI. Register [here](https://eval.ai/web/challenges/challenge-page/1923/).|
 | **Dec. 19th, 2022**      | This competition is now **live** and will run until March 20th, 2023. Find the detailed schedule [here](schedule)|
