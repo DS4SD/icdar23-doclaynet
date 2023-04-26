@@ -56,6 +56,7 @@ The competition data-set provides PNG images (1025 x 1025 px) of the pages and p
 | **Asset**           	| **Download link** 	|
 |---------------------	|-------------------	|
 | Competition dataset (498 pages)	| [Download](https://ds4sd-icdar23-doclaynet-competition.s3.eu-de.cloud-object-storage.appdomain.cloud/competition-dataset-public.zip) (205 MB)             	|
+| Competition dataset ground-truth(498 pages)	| [Download](https://ds4sd-icdar23-doclaynet-competition.s3.eu-de.cloud-object-storage.appdomain.cloud/competition_dataset_groundtruth.zip) (205 MB)             	|
 | Development dataset (20 pages)	| [Download](https://ds4sd-icdar23-doclaynet-competition.s3.eu-de.cloud-object-storage.appdomain.cloud/dev-dataset-public.zip) (8 MB)             	|
 
 
