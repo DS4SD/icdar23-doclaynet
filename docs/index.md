@@ -1,11 +1,7 @@
 # ICDAR 2023 Competition on Robust Layout Segmentation in Corporate Documents
 
 !!! info
-		We extended the deadline of this competition to April 3rd, 2023 23:59 UTC+1:00. Please review the finalization actions on our [EvalAI challenge page](https://eval.ai/web/challenges/challenge-page/1923/).
-
-
-!!! info
-		To participate and make submissions, please register on our [EvalAI challenge page](https://eval.ai/web/challenges/challenge-page/1923/). 
+		This competition concluded on April 3rd, 2023 23:59 UTC+1:00. We would like to thank all participants for their contributions to the competition! Check the results on our [EvalAI challenge page](https://eval.ai/web/challenges/challenge-page/1923/).
 
 ## Introduction
 
@@ -22,6 +18,8 @@ To raise the bar over previous competitions, we propose our newly published, hum
 
 |   |    |
 | :---------- | :----------------------------------- |
+| **Apr. 26th, 2023**      | The ground-truth of our competition dataset is now available [here](task#competition-data-set) |
+| **Apr. 3rd, 2023**      | The competition has concluded. Check the results [here](https://eval.ai/web/challenges/challenge-page/1923/leaderboard/4545) |
 | **Mar. 27th, 2023**      | The competition deadline is extended until April 3rd, 2023 23:59 UTC+1:00 |
 | **Mar. 20th, 2023**      | The competition deadline is extended until March 26th, 2023 12:00 AM (midnight) |
 | **Jan. 13th, 2023**      | The [competition-dataset](task#competition-data-set) is now released and submissions are opened on EvalAI. Register [here](https://eval.ai/web/challenges/challenge-page/1923/).|
@@ -36,5 +34,3 @@ We **highly recommend** you to use our recently published [DocLayNet](https://gi
 ## Participation
 
 Everyone is welcome to participate in this competition. To ensure fairness, we require teams to abide by the [participation rules](rules).
-
-
