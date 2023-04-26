@@ -18,12 +18,12 @@ To raise the bar over previous competitions, we propose our newly published, hum
 
 |   |    |
 | :---------- | :----------------------------------- |
-| **Apr. 26th, 2023**      | The ground-truth of our competition dataset is now available [here](task#competition-data-set) |
-| **Apr. 3rd, 2023**      | The competition has concluded. Check the results [here](https://eval.ai/web/challenges/challenge-page/1923/leaderboard/4545) |
+| **Apr. 26th, 2023**      | The ground-truth of our competition dataset is now available [here](task#competition-data-set). |
+| **Apr. 3rd, 2023**      | The competition has concluded. Check the results [here](https://eval.ai/web/challenges/challenge-page/1923/leaderboard/4545).|
 | **Mar. 27th, 2023**      | The competition deadline is extended until April 3rd, 2023 23:59 UTC+1:00 |
 | **Mar. 20th, 2023**      | The competition deadline is extended until March 26th, 2023 12:00 AM (midnight) |
 | **Jan. 13th, 2023**      | The [competition-dataset](task#competition-data-set) is now released and submissions are opened on EvalAI. Register [here](https://eval.ai/web/challenges/challenge-page/1923/).|
-| **Dec. 19th, 2022**      | This competition is now **live** and will run until March 20th, 2023. Find the detailed schedule [here](schedule)|
+| **Dec. 19th, 2022**      | This competition is now **live** and will run until March 20th, 2023. Find the detailed schedule [here](schedule).|
 
 ## Task and resources
 
